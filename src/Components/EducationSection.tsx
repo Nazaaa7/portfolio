@@ -12,13 +12,13 @@ const educationData = [
     title: 'Técnica Superior en Desarrollo de Software Multiplataforma',
     institution: 'Instituto Politécnico Formosa (IPF)',
     period: '2024 – 2025',
-    pdfUrl: 'src/assets/docs/IPF.pdf',
+    pdfUrl: 'public/assets/docs/IPF.pdf',
   },
   {
     title: 'Técnica en Programación',
     institution: 'Escuela Provincial de Educación Técnica N°7 "Vicente Arcadio Salemi"',
     period: '2017 – 2023',
-    pdfUrl: 'src/assets/docs/Analitico.pdf',
+    pdfUrl: 'public/assets/docs/Analitico.pdf',
   },
 ];
 
@@ -27,13 +27,13 @@ const coursesData = [
     title: 'Inteligencia Artificial Aplicada',
     institution: 'Big School - Escuela de marketing digital, inteligencia artificial (IA), SEO y negocios',
     period: '2025',
-    pdfUrl: 'src/assets/docs/IA.pdf',
+    pdfUrl: 'public/assets/docs/IA.pdf',
   },
   {
     title: 'Certificación en Diseño Gráfico',
     institution: 'IAC – Instituto Argentino de Computación',
     period: '2024',
-    pdfUrl: 'src/assets/docs/certDi.pdf',
+    pdfUrl: 'public/assets/docs/certDi.pdf',
   },
 ];
 
@@ -42,7 +42,7 @@ const eventsData = [
     title: 'Hackathon IPF',
     institution: 'Instituto Politécnico Formosa',
     period: '2023 - 2024',
-    pdfUrl: 'src/assets/docs/hack.pdf',
+    pdfUrl: 'public/assets/docs/hack.pdf',
   },
 ];
 
